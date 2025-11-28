@@ -1,0 +1,21 @@
+{
+  "name": "auto-ui-platform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "element-plus": "^2.2.0",
+    "vue": "^3.2.0",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.94.2",
+    "sass-loader": "^16.0.6",
+    "vue-cli-plugin-element-plus": "~0.0.13"
+  }
+}
